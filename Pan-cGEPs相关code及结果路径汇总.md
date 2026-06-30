@@ -60,7 +60,7 @@ SLE:
 
 /sibcb1/bioinformatics/yangyue/project/immunotherapy/7.2.cNMF_CD8T/5.startCAT-SLE/GSE135779_PBMC_SLE_Adult_celltype_harmony_umap.h5ad
 
-organoids  transplant **：**
+organoids  transplant ：
 
 /sibcb1/bioinformatics/yangyue/project/immunotherapy/7.2.cNMF_CD8T/5.3_startCAT-organoids/GSE248788/GSE248789_scRNA_clean_anno.h5ad
 
